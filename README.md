@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Tirth Jani!
 👩🏻‍💻 Software Developer Intern starting my journey and learnings in tech<br>👩🏻‍🎓 Studding Computer Science at the Atmiya University, India<br>🎨 Contributing more in Open Source projects and solving DSA questions<br>🌷 #learninginpublic in my digital garden and play chess in me time<br><br>
 
 
